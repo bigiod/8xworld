@@ -1,0 +1,51 @@
+[en]
+languageCode = "en"
+languageName = "EN"
+weight = 1
+title = "let's be friends, AI!"
+
+[en.params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo_transparent.png"
+  secondaryLogo = "img/secondary-logo.png"
+  description = "My awesome website"
+
+
+[en.author]
+  name = "MetaX"
+  image = "img/nuno_avatar.jpg"
+  headline = "Prompt Engineer & ENS+IPFS dWebsite Expert"
+  bio = "Prompt Engineer & ENS+IPFS dWebsite Expert"
+  links = [
+    { x-twitter = "https://twitter.com/helloxai" },
+    { github = "https://github.com/bigiod/" },
+  ]
+
+[zh-cn]
+languageCode = "zh-cn"
+languageName = "中文简体"
+weight = 2
+title = "和AI做个朋友"
+
+[zh-cn.params]
+  displayName = "中文简体"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo_transparent.png"
+  secondaryLogo = "img/secondary-logo.png"
+  description = "My awesome website"
+
+
+[zh-cn.author]
+  name = "MetaX"
+  image = "img/nuno_avatar.jpg"
+  headline = "Prompt Engineer & ENS+IPFS dWebsite Expert"
+  bio = "Prompt Engineer & ENS+IPFS dWebsite Expert"
+  links = [
+    { x-twitter = "https://twitter.com/helloxai" },
+    { github = "https://github.com/bigiod/" },
+  ]
