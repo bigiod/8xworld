@@ -3,9 +3,9 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://8x.world/"
-defaultContentLanguage = "en"
-# disableLanguages = [] #to allow translation work requiring shipping to production
+baseURL = ""
+defaultContentLanguage = "zh-cn"
+disableLanguages = ["en"] #to allow translation work requiring shipping to production
 relativeUrls = true
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
