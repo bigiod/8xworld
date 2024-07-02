@@ -34,13 +34,13 @@ title = "和AI做个朋友"
   displayName = "中文简体"
   isoCode = "zh-cn"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2006-01-02"
   logo = "img/logo_transparent.png"
   secondaryLogo = "img/secondary-logo.png"
   description = "My awesome website"
 
 
-[zh-cn.author]
+ [zh-cn.author]
   name = "MetaX"
   image = "img/nuno_avatar.jpg"
   headline = "Prompt Engineer & ENS+IPFS dWebsite Expert"

@@ -1,12 +1,11 @@
 ---
-title: "Usage Guide Template"
+title: "使用模板"
 date: 2024-06-03
 draft: false
 description: "用于创建 Blowfish 主题使用指南的模板"
 tags: ["content", "example"]
 showauthor: true
-slug: ""
-categories: ["AIGC", "Web3"]
+slug: "5684641"
 tags: ["setup", "doc"]
 
 # series: ["部署教程"]

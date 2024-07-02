@@ -73,7 +73,7 @@ smartTOCHideUnfocusedChildren = false
   relatedContentLimit = 6
   showTaxonomies = true
   showAuthorsBadges = true
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
 
