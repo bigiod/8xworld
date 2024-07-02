@@ -16,7 +16,7 @@ title = "let's be friends, AI!"
 
 [en.author]
   name = "MetaX"
-  image = "img/nuno_avatar.jpg"
+  image = "img/metax_avatar.jpg"
   headline = "Prompt Engineer & ENS+IPFS dWebsite Expert"
   bio = "Prompt Engineer & ENS+IPFS dWebsite Expert"
   links = [
@@ -42,7 +42,7 @@ title = "和AI做个朋友"
 
  [zh-cn.author]
   name = "MetaX"
-  image = "img/nuno_avatar.jpg"
+  image = "img/metax_avatar.jpg"
   headline = "Prompt Engineer & ENS+IPFS dWebsite Expert"
   bio = "Prompt Engineer & ENS+IPFS dWebsite Expert"
   links = [
