@@ -81,6 +81,8 @@
 
         <div class="article-content max-w-prose mb-20">
           {{ .Content }}
+          {{- /* Reward */ -}}                 
+          {{- partial "single/reward.html" . -}}
         </div>
         
         {{ if (.Params.showAuthorBottom | default ( .Site.Params.article.showAuthorBottom | default false)) }}
@@ -130,6 +132,7 @@
       <script type="text/javascript" src="{{ $jsPage.RelPermalink }}" integrity="{{ $jsPage.Data.Integrity }}"></script>
   
     </section>
+
   <footer class="pt-8 max-w-prose print:hidden">
 
     {{ partial "article-pagination.html" . }}
