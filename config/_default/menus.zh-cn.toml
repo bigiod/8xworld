@@ -61,7 +61,7 @@ weight = 30
 
 [[footer]]
 name = "赞助"
-pageRef = "sponsor"
+pageRef = "reward"
 weight = 10
 
 # [[footer]]
