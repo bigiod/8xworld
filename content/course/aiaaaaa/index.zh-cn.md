@@ -1,5 +1,6 @@
 ---
 title: "Firebase: 阅读量 & 点赞量"
+date: 2024-06-30
 weight: 15
 draft: false
 description: "了解 Blowfish 如何集成 Firebase，并动态显示阅读量和点赞量。"

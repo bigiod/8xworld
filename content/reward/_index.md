@@ -42,10 +42,13 @@ APlayer 是采用 MIT 许可的开源项目，使用完全免费。 但是随着
 我们通过一下方式接受赞助
 
 - 加密钱包
+
+   [BuymeaBTC](https://www.idatariver.com/zh-cn/buymeabtc/92e0)
+
 - 微信支付
-![微信支付](/reward/wechatpay.png)
+<img src="/reward/wechatpay.png" width="250px"/>
 - 支付宝
-![微信支付](/reward/alipay.png)
+<img src="/reward/alipay.png"  width="250px" />
 - Paypal
 - Wise
 

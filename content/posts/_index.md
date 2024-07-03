@@ -9,8 +9,8 @@ cascade:
   showEdit: false
   showReadingTime: true
   showSummary: true
-  showLikes: false
-  showViews: false
+  showLikes: true
+  showViews: true
 ---
 
 {{< lead >}}

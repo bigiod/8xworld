@@ -17,8 +17,8 @@ title = "let's be friends, AI!"
 [en.author]
   name = "MetaX"
   image = "img/metax_avatar.jpg"
-  headline = "Prompt Engineer & ENS+IPFS dWebsite Enthusiast"
-  bio = "Prompt Engineer & ENS+IPFS dWebsite Enthusiast"
+  headline = "Prompt Engineering & ENS+IPFS dWebsite Enthusiast"
+  bio = "Prompt Engineering & ENS+IPFS dWebsite Enthusiast"
   links = [
     { x-twitter = "https://twitter.com/helloxai" },
     { github = "https://github.com/bigiod/" },
@@ -43,8 +43,8 @@ title = "和AI做个朋友"
  [zh-cn.author]
   name = "MetaX"
   image = "img/metax_avatar.jpg"
-  headline = "Prompt Engineer & ENS+IPFS dWebsite Enthusiast"
-  bio = "Prompt Engineer & ENS+IPFS dWebsite Enthusiast"
+  headline = "Prompt Engineering & ENS+IPFS dWebsite Enthusiast"
+  bio = "Prompt Engineering & ENS+IPFS dWebsite Enthusiast"
   links = [
     { link = "https://zhangxuan.ai/" },
     { x-twitter = "https://twitter.com/helloxai" },
