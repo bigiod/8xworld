@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["posts"]
+mainSections = ["series"]
 # robots = ""
 
 disableImageOptimization = false
@@ -32,13 +32,13 @@ smartTOCHideUnfocusedChildren = false
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = true
+  showRecent = false
   showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "/posts"
@@ -48,8 +48,8 @@ smartTOCHideUnfocusedChildren = false
 
 [article]
   showDate = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
@@ -66,7 +66,7 @@ smartTOCHideUnfocusedChildren = false
   seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
-  invertPagination = false
+  invertPagination = true
   showReadingTime = true
   showTableOfContents = true
   showRelatedContent = true
@@ -74,21 +74,21 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = false
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
 
 [list]
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showSummary = false
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = false
-  orderByWeight = false
+  showCards = true
+  orderByWeight = true
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
@@ -102,21 +102,21 @@ smartTOCHideUnfocusedChildren = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = true
-  showLikes = true
-  showTableOfContents = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
   cardView = false
 
 [term]
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  showViews = true
-  showLikes = true
+  showBreadcrumbs = true
+  showViews = false
+  showLikes = false
   showTableOfContents = true
   groupByYear = false
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
 
 [firebase]
   #apiKey = "AIzaSyB_TleXPvs_UKQPtFQqAMWulovPGIpHY3w"

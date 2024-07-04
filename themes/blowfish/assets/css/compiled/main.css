@@ -2007,7 +2007,7 @@ select {
 }
 
 .max-w-prose {
-  max-width:65ch
+  max-width:90ch
 }
 
 .max-w-xl {
@@ -5629,6 +5629,12 @@ pre {
   }
 }
 
+#QR {
+  padding-top:20px;
+}
+
+
+
 
 #QR {
   padding-top:20px;
@@ -5658,7 +5664,7 @@ pre {
   padding:0 25px
 }
 #rewardButton:hover {
-  color:#f77b83;
-  border-color:#f77b83;
+  color:#ffffff;
+  border-color:#ffffff;
   outline-style:none
 }

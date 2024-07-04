@@ -81,7 +81,6 @@
 
         <div class="article-content max-w-prose mb-20">
           {{ .Content }}
-          {{- /* Reward */ -}}                 
           {{- partial "single/reward.html" . -}}
         </div>
         
@@ -111,6 +110,7 @@
         {{ end }}
 
         {{ partial "series/series-closed.html" . }}
+
         {{ partial "sharing-links.html" . }}
         {{ partial "related.html" . }}  
       </div>

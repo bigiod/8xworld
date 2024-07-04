@@ -1,11 +1,11 @@
 ---
-title: "使用模板"
+title: "XXXXXXXXXXXX"
 date: 2024-06-03
 draft: false
 description: "用于创建 Blowfish 主题使用指南的模板"
 tags: ["content", "example"]
 showauthor: true
-slug: "5684641"
+slug: ""
 tags: ["setup", "doc"]
 
 # series: ["部署教程"]
@@ -16,12 +16,6 @@ tags: ["setup", "doc"]
 
 ## 如何开始？
 这是一篇模板文章，将解释如何为 Blowfish 的指南部分创建新文章。
-
-
-
-
-
-
 
 ## Clone Blowfish 仓库
 使用以下命令 clone 此仓库：
@@ -46,6 +40,8 @@ New article!
 {{< button href="#button" target="_self" >}}
 Call to action
 {{< /button >}}
+
+
 
 
 ## 图表
