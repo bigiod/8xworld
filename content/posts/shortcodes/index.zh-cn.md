@@ -77,7 +77,7 @@ data: {
 
 ## 嵌入youtube视频
 
-{{< youtubeLite id=KLuTLF3x9sA label="Blowfish-tools demo" >}}
+{{< youtube KLuTLF3x9sA >}}
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "人工智能课程"
+title: "Prompt Engineering（指令工程）实战课程"
 description: "如何使用 Blowfish。"
 
 cascade:
