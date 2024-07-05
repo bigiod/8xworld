@@ -16,7 +16,7 @@ mainSections = ["posts"]
 # robots = ""
 
 
-disableImageZoom = true
+disableImageZoom = false
 disableImageOptimization = false
 disableTextInHeader = false
 
