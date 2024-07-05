@@ -8,7 +8,7 @@ slug: ""
 tags: ["超级个体","人工智能","创作者经济","Web3.0"]
 showTableOfContents: false
 showDate: false
-showAuthor: false
+showAuthor: true
 showReadingTime: false
 invertPagination: false
 layoutBackgroundHeaderSpace: true

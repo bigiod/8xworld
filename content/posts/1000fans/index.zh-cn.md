@@ -8,70 +8,12 @@ showauthor: true
 slug: "1000fans"
 
 
-# series: ["部署教程"]
-# series_order: 4
 ---
 
-感谢您愿意为 Blowfish 社区做出贡献。
+>聚焦1000铁杆粉丝，精耕细作，铸就个人品牌坚实基石。
 
-## 如何开始？
-这是一篇模板文章，将解释如何为 Blowfish 的指南部分创建新文章。
+如何通过培养1000个铁杆粉丝来建立和巩固个人品牌，强调精准定位与深度互动，助力学员在竞争激烈的市场中脱颖而出，实现品牌价值的持续增长。
 
-
-
-
-
-
-
-## Clone Blowfish 仓库
-使用以下命令 clone 此仓库：
-
-```bash
-git clone https://github.com/nunocoracao/blowfish.git
-```
-
-## 配置您的文档
-复制并粘贴您要创建的 `.md` 文档所在的整个文件夹。
-使用 `YYYYMM-<英文标题>` 的格式（例如：`200601-tutorial`）命名文档，不允许有空格。
-
-## 徽章
-
-{{< badge >}}
-New article!
-{{< /badge >}}
-
-## 按钮
-
-
-{{< button href="#button" target="_self" >}}
-Call to action
-{{< /button >}}
-
-
-## 图表
-
-{{< chart >}}
-type: 'bar',
-data: {
-  labels: ['Tomato', 'Blueberry', 'Banana', 'Lime', 'Orange'],
-  datasets: [{
-    label: '# of votes',
-    data: [12, 19, 3, 5, 3],
-  }]
-}
-{{< /chart >}}
-
-
-## 提交 PR
-提交您的 PR ，Blowfish 团队在这里提前感谢您对我们这个项目的贡献。
-
-## 引入github库
-
-{{< github repo="nunocoracao/blowfish" >}}
-
-
-
-## 嵌入bilibili视频
 
 {{< bilibili BV1LJ4m1u7uL >}}
 

@@ -52,10 +52,10 @@ name = "AI超级个体"
 pageRef = "superindividual"
 weight = 30
 
-[[main]]
-name = "VIP会员"
-pageRef = ""
-weight = 40
+# [[main]]
+# name = "VIP会员"
+# pageRef = ""
+# weight = 40
 
 [[main]]
 name = "赞助支持"

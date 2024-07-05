@@ -1,6 +1,6 @@
 ---
-title: "Prompt Engineering（指令工程）实战课程"
-description: "如何使用 Blowfish。"
+title: "Prompt Engineering（指令工程）GPT实战课程"
+description: "本课程深入探讨Prompt Engineering的核心原理与实践技巧，教授如何设计高效、准确的AI交互指令，通过案例分析与实战演练，助力学员在AI应用开发中实现更精准的指令控制与优化。"
 
 cascade:
   showDate: true
@@ -14,10 +14,4 @@ cascade:
 ---
 
 
-{{< lead >}}
-了解如何使用简单而强大的 Blowfish。
-{{< /lead >}}
-
-本章节包含了你需要了解的有关 Blowfish 的所有信息。如果你是新用户，请查阅指南，或者访问示例来了解 Blowfish 能做什么。
-
----
+掌握指令工程，精通AI交互设计，提升指令效率与准确性。

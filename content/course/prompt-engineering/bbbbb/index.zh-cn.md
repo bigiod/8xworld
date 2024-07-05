@@ -1,13 +1,19 @@
 ---
-title: "不一样的HUGO能做什么？"
-date: 2024-07-02
-weight: 121
+title: "Prompt Engineering 提示工程从入门到精通"
+date: 2024-07-05
+weight: 10
 draft: false
-description: "了解如何在HUGO主题文件中添加打赏功能代码"
+description: "GPT，Prompt Engineering提示工程从入门到精通！掌握核心技能，解锁AI无限可能！"
 slug: ""
-tags: ["HUGO","abc"]
-series: ["玩转HUGO"]
-series_order: 2
+tags: ["Prompt Engineering","AIGC"]
+series: ["2004-GPT专家课程"]
+series_order: 1
 ---
 
 > 网上有很多实现打赏功能的方法，本站使用的是添加HTML+CSS代码方式实现。
+
+## 第一节课
+
+## 第一节课
+
+## 第一节课
