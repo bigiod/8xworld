@@ -1,12 +1,12 @@
 ---
-title: "使用模板"
+title: "打造个人品牌只需要1000个铁杆粉丝"
 date: 2024-06-03
 draft: false
 description: "用于创建 Blowfish 主题使用指南的模板"
-tags: ["content", "example"]
+tags: ["个人品牌", "粉丝"]
 showauthor: true
-slug: "5684641"
-tags: ["setup", "doc"]
+slug: "1000fans"
+
 
 # series: ["部署教程"]
 # series_order: 4

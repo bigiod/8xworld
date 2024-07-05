@@ -1,15 +1,11 @@
 ---
-title: "XXXXXXXXXXXX"
+title: "把自己变成稀缺资产"
 date: 2024-06-03
 draft: false
-description: "用于创建 Blowfish 主题使用指南的模板"
-tags: ["content", "example"]
+description: "把自己变成稀缺资产，一个人的核心资产就是自己"
+tags: ["超级个体", "资产"]
 showauthor: true
-slug: ""
-tags: ["setup", "doc"]
-
-# series: ["部署教程"]
-# series_order: 4
+slug: "make-yourself-a-scarce-asset"
 ---
 
 感谢您愿意为 Blowfish 社区做出贡献。

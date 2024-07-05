@@ -1,11 +1,11 @@
 ---
-title: "知识分享"
+title: "AI自动化课程"
 description: "如何使用 Blowfish。"
 
 cascade:
   showDate: true
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
   showEdit: false
   showReadingTime: true
   showSummary: true
@@ -13,7 +13,4 @@ cascade:
   showViews: false
 ---
 
-{{< lead >}}
-认知力、行动力和生命力是我们的三项核心资产，也是人生财富大厦的基础
-{{< /lead >}}
-
+掌握AI绘画，开启艺术新纪元，让创意无限延伸。

@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "文章"
+name = "知识分享"
 pageRef = "posts"
 weight = 10
 
@@ -43,7 +43,7 @@ weight = 10
 #  weight = 20
 
 [[main]]
-name = "AI课程"
+name = "AI实战课程"
 pageRef = "course"
 weight = 20
 
@@ -54,13 +54,18 @@ weight = 30
 
 [[main]]
 name = "VIP会员"
-pageRef = "course"
+pageRef = ""
 weight = 40
 
 [[main]]
-name = "赞助我们"
+name = "赞助支持"
 pageRef = "reward"
 weight = 50
+
+[[main]]
+name = "关于我们"
+pageRef = "about"
+weight = 100
 
 
 

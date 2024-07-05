@@ -1,12 +1,12 @@
 ---
-title: "在HUGO文章底部添加微信和支付宝打赏功能"
+title: "Leonardo.AI课程"
 date: 2024-07-02
 weight: 192
 draft: false
 description: "了解如何在HUGO主题文件中添加打赏功能代码"
 slug: "hugo-reward"
 tags: ["HUGO","打赏","微信支付","支付宝"]
-series: ["玩转HUGO"]
+series: ["Leonardo.AI课程"]
 series_order: 1
 ---
 
