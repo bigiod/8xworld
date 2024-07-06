@@ -11,6 +11,7 @@ cascade:
   showSummary: true
   showLikes: false
   showViews: false
+  seriesOpened: true
 ---
 
 

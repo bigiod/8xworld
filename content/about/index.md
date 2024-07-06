@@ -1,7 +1,7 @@
 ---
 title: "关于我们"
 description: "关于我们"
-showAuthor: true
+showAuthor: false
 showReadingTime: false
 showTableOfContents: false
 showLikes: false
@@ -17,11 +17,8 @@ cascade:
   showViews: false
 ---
 
-{{< lead >}}
-因为有爱，这个世界才会更美好！
-{{< /lead >}}
 
----
+
 
 ## 和AI做个朋友
 

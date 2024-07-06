@@ -1,5 +1,5 @@
 ---
-title: "AI绘画课程-主流绘画工具应用零基础教学"
+title: "AI绘画课程-主流绘画工具应用零基础"
 description: "如何使用 Blowfish。"
 
 cascade:

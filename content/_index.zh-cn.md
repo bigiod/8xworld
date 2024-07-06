@@ -16,10 +16,16 @@ AI 时代
 世上最痛的领悟就是“[我本来可以][4]”！请别错过这次AI浪潮！
 
 
-## AI系列课程
-{{< article link="/course/hugo-reward/" >}}
+## AI核心课程
+{{< article link="/course/prompt-engineering/pe1/" >}}
+　
 
-{{< list title="AI核心能力课程推荐" cardView=true where="Type" value="course" limit=3 >}}
+{{< article link="/course/ai-painting/leonardo/" >}}
+　
+
+{{< article link="/course/ai-automation/automatic/" >}} 　
+　
+
 
 [1]: #
 [2]: #

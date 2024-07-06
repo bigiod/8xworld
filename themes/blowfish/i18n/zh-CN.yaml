@@ -14,7 +14,7 @@ article:
   word_count:
     one: "{{ .Count }} 字"
     other: "{{ .Count }} 字"
-  part_of_series: "这篇文章属于一个选集。"
+  part_of_series: "合集"
   part: "§"
   this_article: "本文"
   related_articles: "相关文章"
