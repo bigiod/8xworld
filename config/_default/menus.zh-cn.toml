@@ -36,134 +36,20 @@ name = "AI超级个体"
 pageRef = "superindividual"
 weight = 30
 
+[[main]]
+name = "最佳AI工具"
+pageRef = "ai-tools"
+weight = 40
 
 [[main]]
-  name = "最佳AI工具"
-  weight = 40
+name = "提示工程"
+pageRef = "prompt-engineering"
+weight = 50
 
 [[main]]
-  name = "AI聊天机器人"
-  parent = "最佳AI工具"
-  url = "/posts/top-15-gpt-3-chatbots-talk-with-ai-ask-questions/"
-  weight = 400
-
-[[main]]
-  name = "AI头像生成"
-  parent = "最佳AI工具"
-  url = "/posts/best-ai-avatar-apps/"
-  weight = 405
-
-[[main]]
-  name = "AI图像生成"
-  parent = "最佳AI工具"
-  url = "/posts/best-ai-art-generators-midjourney-dall-e-nightcafe-artbreeder/"
-  weight = 410
-
-[[main]]
-  name = "AI图片增强"
-  parent = "最佳AI工具"
-  url = "/posts/10-best-ai-photo-enhancers/"
-  weight = 415
-
-[[main]]
-  name = "AI徽标生成"
-  parent = "最佳AI工具"
-  url = "/posts/5-best-free-ai-logo-makers/"
-  weight = 420
-
-[[main]]
-  name = "AI图片素"
-  parent = "最佳AI工具"
-  url = "/posts/10-best-ai-photo-stock/"
-  weight = 425
-
-[[main]]
-  name = "AI语音生成"
-  parent = "最佳AI工具"
-  url = "/posts/top-7-ai-voice-generators-and-voice-cloning-for-text-to-speech/"
-  weight = 430
-
-[[main]]
-  name = "AI视频生成"
-  parent = "最佳AI工具"
-  url = "/posts/7-best-text-to-video-ai-generators"
-  weight = 435  
-
-[[main]]
-  name = "3D模型生成"
-  parent = "最佳AI工具"
-  url = "/posts/best-ai-3d-generators/"
-  weight = 440
-
-[[main]]
-  name = "AI动漫角色创作"
-  parent = "最佳AI工具"
-  url = "/posts/7-best-ai-anime-character-online-creators/"
-  weight = 442
-
-[[main]]
-  name = "AI个人简历生成"
-  parent = "最佳AI工具"
-  url = "/posts/best-ai-resume-builders/"
-  weight = 445
-
-[[main]]
-  name = "AI数据分析"
-  parent = "最佳AI工具"
-  url = "/posts/10-ai-powered-tools-for-data-analysts-data-scientists/"
-  weight = 450
-
-
-[[main]]
-  name = "提示工程"
-  weight = 50
-
-[[main]]
-  name = "文字转图像提示词"
-  parent = "提示工程"
-  url = "/posts/best-10-ai-prompt-text-to-image-model/"
-  weight = 500
-
-[[main]]
-  name = "提示词市场和中心"
-  parent = "提示工程"
-  url = "/posts/top-5-ai-prompt-marketplaces-and-hubs/"
-  weight = 505
-
-[[main]]
-  name = "聊天GPT提示词"
-  parent = "提示工程"
-  url = "/posts/100-best-chatgpt-prompts-to-unleash-ais-potential"
-  weight = 510
-
-#[[main]]
-#  name = "Stable Diffusion 提示词"
-#  parent = "提示工程"
-# url = "/posts/"
-# weight = 515
-
-#[[main]]
-#  name = "Middjourney 提示词"
-#  parent = "提示工程"
-#  url = "/posts/"
-#  weight = 520
-
-#[[main]]
-#  name = "AI提示词生成器"
-#  parent = "提示工程"
-#  url = "/posts/"
-#  weight = 525
-
-#[[main]]
-#  name = "AI提示词检查"
-#  parent = "提示工程"
-#  url = "/posts/"
-#  weight = 530
-
- [[main]]
  name = "VIP会员"
  url = "https://www.patreon.com/8xWorld"
- weight = 100
+ weight = 1
 
 #[[main]]
 #name = "赞助支持"
