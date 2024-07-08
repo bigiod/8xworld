@@ -27,9 +27,6 @@ AI 时代已来
 世上最痛的领悟就是“[我本来可以](#)”！请千万别错过这次AI浪潮！
 
 
-
-
-
 ## AI核心课程
 {{< article link="/course/prompt-engineering/pe1/" >}}
 　
