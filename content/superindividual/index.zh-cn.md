@@ -30,7 +30,7 @@ cascade:
 
 AI超级个体
 
-{{< article link="/supers/superindividual-1/" >}}
+{{< article link="/supers/superindividual/superindividual-1/" >}}
 
 一人企业方法论
 

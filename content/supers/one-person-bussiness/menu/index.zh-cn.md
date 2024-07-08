@@ -1,10 +1,10 @@
 ---
 title: "「一人企业方法论」"
 date: 2024-07-02
-weight: 192
+weight: 1
 draft: false
 description: "「一人企业方法论」"
-featuredImage: "images/feature/one-person-bussiness.jpg"
+featureimage: ""
 slug: ""
 tags: ["一人企业"]
 series: ["一人企业方法论"]

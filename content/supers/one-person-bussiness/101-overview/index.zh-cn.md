@@ -1,7 +1,7 @@
 ---
 title: "「一人企业方法论」概述"
 date: 2024-07-02
-weight: 192
+weight: 2
 draft: false
 description: "「一人企业方法论」概述"
 slug: ""

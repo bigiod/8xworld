@@ -1,7 +1,7 @@
 ---
 title: "为什么规模化是可能的"
 date: 2024-07-02
-weight: 192
+weight: 5
 draft: false
 description: "为什么规模化是可能的"
 slug: ""
