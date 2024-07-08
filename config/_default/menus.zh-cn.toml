@@ -170,7 +170,10 @@ name = "赞助支持"
 pageRef = "reward"
 weight = 100
 
-
+[[main]]
+name = "登录"
+url = "https://8x.world?msopen=/member/sign_in"
+weight = 110
 
 
 
