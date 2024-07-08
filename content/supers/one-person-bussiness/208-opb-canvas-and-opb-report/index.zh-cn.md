@@ -1,9 +1,10 @@
 ---
 title: "一人企业画布和一人企业月报"
 date: 2024-07-02
-weight: 192
+weight: 11
 draft: false
 description: "一人企业画布和一人企业月报"
+featureimage: "https://www.8x.world/images/feature/one-person-bussiness.jpg"
 slug: ""
 tags: ["一人企业"]
 series: ["一人企业方法论"]

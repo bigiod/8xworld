@@ -1,9 +1,10 @@
 ---
 title: "滚雪球和链式传播"
 date: 2024-07-02
-weight: 192
+weight: 7
 draft: false
 description: "滚雪球和链式传播"
+featureimage: "https://www.8x.world/images/feature/one-person-bussiness.jpg"
 slug: ""
 tags: ["一人企业"]
 series: ["一人企业方法论"]

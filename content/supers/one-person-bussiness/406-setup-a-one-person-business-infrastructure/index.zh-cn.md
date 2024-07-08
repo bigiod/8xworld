@@ -1,9 +1,10 @@
 ---
 title: "搭建一人企业基础设施"
 date: 2024-07-02
-weight: 192
+weight: 22
 draft: false
 description: "搭建一人企业基础设施"
+featureimage: "https://www.8x.world/images/feature/one-person-bussiness.jpg"
 slug: ""
 tags: ["一人企业"]
 series: ["一人企业方法论"]

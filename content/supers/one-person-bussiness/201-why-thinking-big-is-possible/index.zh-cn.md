@@ -4,6 +4,7 @@ date: 2024-07-02
 weight: 4
 draft: false
 description: "「为什么以小博大是可能的"
+featureimage: "https://www.8x.world/images/feature/one-person-bussiness.jpg"
 slug: ""
 tags: ["一人企业"]
 series: ["一人企业方法论"]

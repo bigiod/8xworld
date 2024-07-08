@@ -1,9 +1,10 @@
 ---
 title: "管理和利用不确定性"
 date: 2024-07-02
-weight: 192
+weight: 15
 draft: false
 description: "管理和利用不确定性"
+featureimage: "https://www.8x.world/images/feature/one-person-bussiness.jpg"
 slug: ""
 tags: ["一人企业"]
 series: ["一人企业方法论"]
