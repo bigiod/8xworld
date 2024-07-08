@@ -1,6 +1,7 @@
 ---
 title: "Prompt Engineering（指令工程）GPT实战课程"
 description: "本课程深入探讨Prompt Engineering的核心原理与实践技巧，教授如何设计高效、准确的AI交互指令，通过案例分析与实战演练，助力学员在AI应用开发中实现更精准的指令控制与优化。"
+cardview: true
 
 cascade:
   showDate: true

@@ -28,9 +28,10 @@ cascade:
 ## 核心课程
 
 
-超级个体
+AI超级个体
 
 {{< article link="/supers/superindividual-1/" >}}
 
+一人企业方法论
 
- 
+ {{< article link="/supers/one-person-bussiness/menu/" >}}

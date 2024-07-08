@@ -1,6 +1,7 @@
 ---
 title: "AI实战课程"
 description: "如何使用 Blowfish。"
+cardview: true
 
 cascade:
   showDate: true

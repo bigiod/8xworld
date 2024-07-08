@@ -66,7 +66,7 @@ weight = 30
   weight = 415
 
 [[main]]
-  name = "AI徽标LOGO生成"
+  name = "AI徽标生成"
   parent = "最佳AI工具"
   url = "/posts/5-best-free-ai-logo-makers/"
   weight = 420
@@ -121,59 +121,55 @@ weight = 30
 [[main]]
   name = "文字转图像提示词"
   parent = "提示工程"
-  url = "/posts/"
+  url = "/posts/best-10-ai-prompt-text-to-image-model/"
   weight = 500
 
 [[main]]
   name = "提示词市场和中心"
   parent = "提示工程"
-  url = "/posts/"
+  url = "/posts/top-5-ai-prompt-marketplaces-and-hubs/"
   weight = 505
 
 [[main]]
   name = "聊天GPT提示词"
   parent = "提示工程"
-  url = "/posts/"
+  url = "/posts/100-best-chatgpt-prompts-to-unleash-ais-potential"
   weight = 510
 
-[[main]]
-  name = "Stable Diffusion 提示词"
-  parent = "提示工程"
-  url = "/posts/"
-  weight = 515
+#[[main]]
+#  name = "Stable Diffusion 提示词"
+#  parent = "提示工程"
+# url = "/posts/"
+# weight = 515
 
-[[main]]
-  name = "Middjourney 提示词"
-  parent = "提示工程"
-  url = "/posts/"
-  weight = 520
+#[[main]]
+#  name = "Middjourney 提示词"
+#  parent = "提示工程"
+#  url = "/posts/"
+#  weight = 520
 
-[[main]]
-  name = "AI提示词生成器"
-  parent = "提示工程"
-  url = "/posts/"
-  weight = 525
+#[[main]]
+#  name = "AI提示词生成器"
+#  parent = "提示工程"
+#  url = "/posts/"
+#  weight = 525
 
-[[main]]
-  name = "AI提示词检查"
-  parent = "提示工程"
-  url = "/posts/"
-  weight = 530
+#[[main]]
+#  name = "AI提示词检查"
+#  parent = "提示工程"
+#  url = "/posts/"
+#  weight = 530
 
 # [[main]]
 # name = "VIP会员"
 # pageRef = ""
 # weight = 40
 
-# [[main]]
-# name = "赞助支持"
-# pageRef = "reward"
-# weight = 50
-
 [[main]]
-name = "关于我们"
-pageRef = "about"
+name = "赞助支持"
+pageRef = "reward"
 weight = 100
+
 
 
 
@@ -183,9 +179,14 @@ weight = 100
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-name = "赞助我们"
+name = "赞助支持"
 pageRef = "reward"
 weight = 10
+
+[[footer]]
+name = "关于我们"
+pageRef = "about"
+weight = 100
 
 # [[footer]]
 #   name = "Tags"
@@ -196,3 +197,4 @@ weight = 10
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
