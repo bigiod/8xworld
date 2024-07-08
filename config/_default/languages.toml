@@ -35,8 +35,8 @@ title = "和AI做个朋友"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "img/logo_transparent.png"
-  secondaryLogo = "img/secondary-logo.png"
+  logo = "img/logo.png"
+  secondaryLogo = "img/logo.png"
   description = "和AI做个朋友"
 
 

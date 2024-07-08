@@ -14,6 +14,13 @@ AI 时代已来
 让我们一起来[和AI做个朋友](https://8x.world/)吧！
 
 
+
+
+{{< carousel images="https://www.8x.world/images/feature/Default_Rewarding_exceptional_bloggers_with_accolades_and_oppo_1.jpg,https://www.8x.world/images/feature/Default_A_beautifully_intricate_GPTs_software_each_feature_glo_2.jpg,https://www.8x.world/images/feature/Default_Create_a_dynamic_and_abstract_cover_image_that_encapsu_0.jpg,https://www.8x.world/images/feature/Default_Design_a_motivational_and_introspective_cover_image_th_0.jpg" aspectRatio="21-9" interval="500">}}
+
+
+
+
 零门槛，零代码
 
 从学习Prompt Engineering到AI绘画和AI Agent

@@ -13,6 +13,10 @@ slug: "1000fans"
 
 >聚焦1000铁杆粉丝，精耕细作，铸就个人品牌坚实基石。
 
+{{< carousel images="{https://cdn.pixabay.com/photo/2016/12/11/12/02/mountains-1899264_960_720.jpg, https://cdn.pixabay.com/photo/2016/12/11/12/02/mountains-1899264_960_720.jpg, gallery/01.jpg, gallery/02.jpg, gallery/04.jpg}" >}}
+
+
+
 {{< alert >}}
 **重点！** 1000个铁杆粉丝就够用！
 {{< /alert >}}
