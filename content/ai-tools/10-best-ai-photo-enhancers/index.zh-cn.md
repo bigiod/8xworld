@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "2024 年 10 款最佳 AI 照片增强器"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","图像增强"]
 showauthor: true
 slug: ""

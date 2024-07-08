@@ -4,7 +4,7 @@ date: 2024-07-07T04:59:04+08:00
 draft: false
 showAuthor: false
 description: "文本转图像模型的 10 个最佳 AI 提示指南和教程：Midjourney、Stable Diffusion、Dall-E 3"
-categories: ["AI"]
+categories: ["Prompt Engineering"]
 tags: ["Prompt","文本转图像","Midjourney","Stable Diffusion","Dall-E 3"]
 slug: ""
 ---

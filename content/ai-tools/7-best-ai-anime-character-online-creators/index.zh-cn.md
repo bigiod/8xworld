@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: " 7 款最佳 AI 动漫角色在线创作者"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","动漫"]
 showauthor: true
 slug: ""

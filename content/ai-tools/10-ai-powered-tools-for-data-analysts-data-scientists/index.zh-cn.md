@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "2024 年面向数据分析师和数据科学家的 10 多种最佳 AI 工具"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","数据分析"]
 showauthor: true
 slug: ""

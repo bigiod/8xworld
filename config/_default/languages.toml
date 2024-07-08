@@ -37,7 +37,7 @@ title = "和AI做个朋友"
   dateFormat = "2006-01-02"
   logo = "img/logo_transparent.png"
   secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "和AI做个朋友"
 
 
  [zh-cn.author]
@@ -48,5 +48,5 @@ title = "和AI做个朋友"
   links = [
     { link = "https://zhangxuan.ai/" },
     { x-twitter = "https://twitter.com/helloxai" },
-    { github = "https://github.com/bigiod/" },
+    { github = "https://github.com/itey/" },
   ]

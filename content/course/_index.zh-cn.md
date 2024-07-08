@@ -1,5 +1,5 @@
 ---
-title: "AI实战课程"
+title: "AI课程"
 description: "如何使用 Blowfish。"
 cardview: true
 

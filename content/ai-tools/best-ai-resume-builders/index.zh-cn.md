@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "10 多个最佳 AI 简历生成器和 CV 制作器"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","简历"]
 showauthor: true
 slug: ""

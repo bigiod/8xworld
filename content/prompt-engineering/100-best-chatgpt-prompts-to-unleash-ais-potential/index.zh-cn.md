@@ -4,7 +4,7 @@ date: 2024-07-07T05:59:04+08:00
 draft: false
 showAuthor: false
 description: "300+ 最佳聊天GPT 提示，释放 AI 潜力"
-categories: ["AI"]
+categories: ["Prompt Engineering"]
 tags: ["Prompt Engineering","Prompt", "GPT"]
 showauthor: true
 slug: ""

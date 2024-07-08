@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "10 多个最佳文本转视频 AI 生成器：功能强大且免费"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","文本转视频"]
 showauthor: true
 slug: ""

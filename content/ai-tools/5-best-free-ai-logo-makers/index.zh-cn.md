@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "2024 年 5 款最佳免费 AI 徽标制作工具"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","LOGO"]
 showauthor: true
 slug: ""

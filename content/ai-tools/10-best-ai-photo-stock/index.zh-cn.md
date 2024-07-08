@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "2024 年10个最佳人工智能照片库"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","图片库"]
 showauthor: true
 slug: ""

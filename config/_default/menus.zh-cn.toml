@@ -11,23 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "知识分享"
-  weight = 10
+name = "知识分享"
+pageRef = "posts"
+weight = 10
 
 [[main]]
-  name = "人工智能"
-  parent = "知识分享"
-  pageRef = "/categories/AI/"
-  weight = 101
-
-[[main]]
-  name = "超级个体"
-  parent = "知识分享"
-  pageRef = "/categories/超级个体/"
-  weight = 102
-
-[[main]]
-name = "AI实战课程"
+name = "AI课程"
 pageRef = "course"
 weight = 20
 
@@ -49,7 +38,7 @@ weight = 50
 [[main]]
  name = "VIP会员"
  url = "https://www.patreon.com/8xWorld"
- weight = 1
+ weight = 100
 
 #[[main]]
 #name = "赞助支持"

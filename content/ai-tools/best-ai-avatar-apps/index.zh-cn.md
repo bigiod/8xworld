@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "2024 年 10 款最佳免费 AI Avatar APP（iOS 和 Android）"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","头像"]
 showauthor: true
 slug: "best-ai-avatar-apps"

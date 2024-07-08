@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "排名前 15 位的 GPT-4 和 GPT-3 聊天机器人：与 AI 对话、提问"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","聊天机器人","GPT-4","GPT-3"]
 showauthor: true
 slug: "top-15-gpt-3-chatbots-talk-with-ai-ask-questions"

@@ -4,7 +4,7 @@ date: 2024-07-07T05:59:04+08:00
 draft: false
 showAuthor: false
 description: "排名前五的 AI 提示市场和中心：搜索世界提示词数据库"
-categories: ["AI"]
+categories: ["Prompt Engineering"]
 tags: ["Prompt Engineering","Prompt", "交易市场"]
 showauthor: true
 slug: ""

@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "20 款最佳 AI 文本转图像艺术生成器：Midjourney、DALL-E、Stable Diffusion"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","文本转图像"]
 showauthor: true
 slug: ""

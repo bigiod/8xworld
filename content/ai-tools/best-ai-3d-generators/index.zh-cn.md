@@ -4,7 +4,7 @@ date: 2024-07-06
 draft: false
 showAuthor: false
 description: "10 多个最佳 AI 3D 生成器：文本转 3D、图像转 3D、视频转 3D"
-categories: ["AI"]
+categories: ["AI工具"]
 tags: ["AI工具","文本转3D模型"]
 showauthor: true
 slug: ""
