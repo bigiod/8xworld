@@ -3893,7 +3893,7 @@ pre {
   background-position:center;
   width: calc(100% + 40px);
   z-index: -10;
-  margin-left: -20px;
+  margin-left: 0px;
 }
 
 .hero_gradient {

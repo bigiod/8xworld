@@ -3,6 +3,13 @@ title: "欢迎来到8xWorld"
 description: ""
 ---
 
+
+
+
+
+
+
+
 AI 时代已来
 
 未来只有两类人，一类是会用 AI 的超级个体，另一类则是普通人
@@ -16,7 +23,8 @@ AI 时代已来
 
 
 
-{{< carousel images="https://www.8x.world/images/feature/Default_Rewarding_exceptional_bloggers_with_accolades_and_oppo_1.jpg,https://www.8x.world/images/feature/Default_A_beautifully_intricate_GPTs_software_each_feature_glo_2.jpg,https://www.8x.world/images/feature/Default_Create_a_dynamic_and_abstract_cover_image_that_encapsu_0.jpg,https://www.8x.world/images/feature/Default_Design_a_motivational_and_introspective_cover_image_th_0.jpg" aspectRatio="21-9" interval="500">}}
+{{< carousel images="https://www.8x.world/images/feature/Default_Rewarding_exceptional_bloggers_with_accolades_and_oppo_1.jpg,https://www.8x.world/images/feature/Default_Rewarding_exceptional_bloggers_with_accolades_and_oppo_2.jpg,https://www.8x.world/images/feature/Default_Create_a_dynamic_and_abstract_cover_image_that_encapsu_0.jpg,https://www.8x.world/images/feature/Default_A_beautifully_intricate_GPTs_software_each_feature_glo_2.jpg" links="https://www.8x.world,https://zhangxuan.ai,https://x.com,https://google.com" aspectRatio="21-9" interval="500" >}}
+
 
 
 
@@ -30,6 +38,8 @@ AI 时代已来
 一个人就能发挥出一个团队、甚至一个企业的效能
 
 世上最痛的领悟就是“[我本来可以](#)”！请千万别错过这次AI浪潮！
+
+
 
 
 ## AI核心课程

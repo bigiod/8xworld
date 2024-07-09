@@ -4,10 +4,14 @@
 
 {{ $page := .Page.Resources }}
 {{ $imagesTemp := .Get "images" }}
+{{ $linksTemp := .Get "links" }}
 {{ $imagesTemp = strings.TrimPrefix "{" $imagesTemp  }}
 {{ $imagesTemp = strings.TrimSuffix "}" $imagesTemp  }}
+{{ $linksTemp = strings.TrimPrefix "{" $linksTemp  }}
+{{ $linksTemp = strings.TrimSuffix "}" $linksTemp  }}
 {{ $imagesTemp := strings.Split $imagesTemp "," }}
-{{ $images := slice}}
+{{ $linksTemp := strings.Split $linksTemp "," }}
+{{ $images := slice }}
 {{ range $imagesTemp }}
     {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
         {{ $images = $images | append (resources.GetRemote .) }}
@@ -23,7 +27,7 @@
         {{ $num := 0 }}
         {{ range $images }}
 
-        <button type="button" data-twe-target="#{{ $id }}" data-twe-slide-to="{{ $num }}" {{ if eq $num 0 }} data-twe-carousel-active aria-current="true" {{ end }} 
+        <button type="button" data-twe-target="#{{ $id }}" data-twe-slide-to="{{ $num }}" {{ if eq $num 0 }} data-twe-carousel-active aria-current="true" {{ end }}
         class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
         aria-label="Slide {{ $num }}"></button>
 
@@ -34,12 +38,14 @@
     <div class="relative w-full overflow-hidden after:clear-both after:block after:content-['']">
 
         {{ $num := 0 }}
-        {{ range $images }}
+        {{ range $i, $image := $images }}
 
         <div class="relative float-left -mr-[100%] {{ if not (eq $num 0) }} hidden {{ end }} w-full transition-transform duration-[{{ $interval }}ms] ease-in-out motion-reduce:transition-none"
             data-twe-carousel-item {{ if eq $num 0 }} data-twe-carousel-active {{ end }}>
             <div class="ratio-{{ $aspect }} single_hero_background">
-                <img src="{{ .RelPermalink }}" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image {{$num}}"/>
+                <a href="{{ index $linksTemp $i }}" target="_blank">
+                    <img src="{{ $image.RelPermalink }}" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image {{$num}}"/>
+                </a>
             </div>
         </div>
 
@@ -69,6 +75,6 @@
             </svg>
         </span>
         <span
-            class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Nextsads</span>
+            class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Next</span>
     </button>
 </div>
