@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI赋能超级个体 on 和AI做个朋友</title>
+    <link>//localhost:1313/series/ai%E8%B5%8B%E8%83%BD%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/</link>
+    <description>Recent content in AI赋能超级个体 on 和AI做个朋友</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 MetaX</copyright>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/series/ai%E8%B5%8B%E8%83%BD%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>超级个体时代已来</title>
+      <link>//localhost:1313/supers/superindividual/superindividual-1/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/supers/superindividual/superindividual-1/</guid>
+      <description>标题1 # XXXX 标题2 # XXXX 标题3 # XXXX 标题4 # XXXX</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/supers/superindividual/superindividual-1/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>认识超级个体</title>
+      <link>//localhost:1313/supers/superindividual/superindividual-2/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/supers/superindividual/superindividual-2/</guid>
+      <description>标题1 # XXXX 标题2 # XXXX 标题3 # XXXX 标题4 # XXXX</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/supers/superindividual/superindividual-2/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>成为超级个体必须掌握的7个新知识</title>
+      <link>//localhost:1313/supers/superindividual/superindividual-3/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/supers/superindividual/superindividual-3/</guid>
+      <description>标题1 # XXXX 标题2 # XXXX 标题3 # XXXX 标题4 # XXXX</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/supers/superindividual/superindividual-3/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>《一人企业方法论》</title>
+      <link>//localhost:1313/supers/superindividual/superindividual-4/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/supers/superindividual/superindividual-4/</guid>
+      <description>2.1 版本 # 补充《产品构建:从零构建软件产品或服务》相关章节 添加</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/supers/superindividual/superindividual-4/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

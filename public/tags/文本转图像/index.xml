@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文本转图像 on 和AI做个朋友</title>
+    <link>//localhost:1313/tags/%E6%96%87%E6%9C%AC%E8%BD%AC%E5%9B%BE%E5%83%8F/</link>
+    <description>Recent content in 文本转图像 on 和AI做个朋友</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 MetaX</copyright>
+    <lastBuildDate>Sun, 07 Jul 2024 04:59:04 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%96%87%E6%9C%AC%E8%BD%AC%E5%9B%BE%E5%83%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文本转图像模型的 10 个最佳 AI 提示指南和教程：Midjourney、Stable Diffusion、Dall-E 3</title>
+      <link>//localhost:1313/prompt-engineering/best-10-ai-prompt-text-to-image-model/</link>
+      <pubDate>Sun, 07 Jul 2024 04:59:04 +0800</pubDate>
+      
+      <guid>//localhost:1313/prompt-engineering/best-10-ai-prompt-text-to-image-model/</guid>
+      <description>GPT-3 因其强大的文本创建功能而具有广泛的应用。GPT-3 用于生成</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/prompt-engineering/best-10-ai-prompt-text-to-image-model/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>20 款最佳 AI 文本转图像艺术生成器：Midjourney、DALL-E、Stable Diffusion</title>
+      <link>//localhost:1313/ai-tools/best-ai-art-generators-midjourney-dall-e-nightcafe-artbreeder/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/ai-tools/best-ai-art-generators-midjourney-dall-e-nightcafe-artbreeder/</guid>
+      <description>如果您对艺术和新技术感兴趣，那么您一定会想看看 2024 年最佳 AI 艺术</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/ai-tools/best-ai-art-generators-midjourney-dall-e-nightcafe-artbreeder/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

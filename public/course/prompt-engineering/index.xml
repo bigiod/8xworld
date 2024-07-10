@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompt Engineering（指令工程）GPT实战课程 on 和AI做个朋友</title>
+    <link>//localhost:1313/course/prompt-engineering/</link>
+    <description>Recent content in Prompt Engineering（指令工程）GPT实战课程 on 和AI做个朋友</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 MetaX</copyright>
+    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/course/prompt-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prompt Engineering 提示工程从入门到精通</title>
+      <link>//localhost:1313/course/prompt-engineering/pe1/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/course/prompt-engineering/pe1/</guid>
+      <description>网上有很多实现打赏功能的方法，本站使用的是添加HTML+CS</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/course/prompt-engineering/pe1/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

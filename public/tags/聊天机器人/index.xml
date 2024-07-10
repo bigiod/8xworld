@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>聊天机器人 on 和AI做个朋友</title>
+    <link>//localhost:1313/tags/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+    <description>Recent content in 聊天机器人 on 和AI做个朋友</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 MetaX</copyright>
+    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>排名前 15 位的 GPT-4 和 GPT-3 聊天机器人：与 AI 对话、提问</title>
+      <link>//localhost:1313/ai-tools/top-15-gpt-3-chatbots-talk-with-ai-ask-questions/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/ai-tools/top-15-gpt-3-chatbots-talk-with-ai-ask-questions/</guid>
+      <description>GPT-3 因其强大的文本创建功能而具有广泛的应用。GPT-3 用于生成</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/ai-tools/top-15-gpt-3-chatbots-talk-with-ai-ask-questions/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

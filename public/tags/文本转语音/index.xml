@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文本转语音 on 和AI做个朋友</title>
+    <link>//localhost:1313/tags/%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3/</link>
+    <description>Recent content in 文本转语音 on 和AI做个朋友</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 MetaX</copyright>
+    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7个文本转语音的生成器和语音克隆</title>
+      <link>//localhost:1313/ai-tools/top-7-ai-voice-generators-and-voice-cloning-for-text-to-speech/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/ai-tools/top-7-ai-voice-generators-and-voice-cloning-for-text-to-speech/</guid>
+      <description>文本转语音 (TTS) 解决方案的需求正在不断增长。这是因为各种应用（包</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/ai-tools/top-7-ai-voice-generators-and-voice-cloning-for-text-to-speech/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

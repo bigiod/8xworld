@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自动化 on 和AI做个朋友</title>
+    <link>//localhost:1313/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+    <description>Recent content in 自动化 on 和AI做个朋友</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 MetaX</copyright>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>内容池和自动化能力</title>
+      <link>//localhost:1313/supers/one-person-bussiness/403-content-pool-and-automation-capability/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/supers/one-person-bussiness/403-content-pool-and-automation-capability/</guid>
+      <description>内容池 # 除了用户池，我们其实还需要一个内容池。原因有两个。 官</description>
+      
+    </item>
+    
+    <item>
+      <title>MAKE、ChatGPT、Notion建立连接</title>
+      <link>//localhost:1313/course/ai-automation/automatic/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/course/ai-automation/automatic/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/course/ai-automation/automatic/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

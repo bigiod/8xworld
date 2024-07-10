@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompt Engineering on 和AI做个朋友</title>
+    <link>//localhost:1313/categories/prompt-engineering/</link>
+    <description>Recent content in Prompt Engineering on 和AI做个朋友</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 MetaX</copyright>
+    <lastBuildDate>Sun, 07 Jul 2024 05:59:04 +0800</lastBuildDate><atom:link href="//localhost:1313/categories/prompt-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>300&#43; 最佳聊天GPT 提示，释放 AI 潜力</title>
+      <link>//localhost:1313/prompt-engineering/100-best-chatgpt-prompts-to-unleash-ais-potential/</link>
+      <pubDate>Sun, 07 Jul 2024 05:59:04 +0800</pubDate>
+      
+      <guid>//localhost:1313/prompt-engineering/100-best-chatgpt-prompts-to-unleash-ais-potential/</guid>
+      <description>这些实用的 ChatGPT 提示涵盖了广泛的主题，可用于客户支持、内容生成和</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/prompt-engineering/100-best-chatgpt-prompts-to-unleash-ais-potential/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>排名前五的 AI 提示市场和中心：搜索世界提示词数据库</title>
+      <link>//localhost:1313/prompt-engineering/top-5-ai-prompt-marketplaces-and-hubs/</link>
+      <pubDate>Sun, 07 Jul 2024 05:59:04 +0800</pubDate>
+      
+      <guid>//localhost:1313/prompt-engineering/top-5-ai-prompt-marketplaces-and-hubs/</guid>
+      <description>将文本转图像提示转换为高质量图片并赚钱 现代的文本和图片生成 AI</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/prompt-engineering/top-5-ai-prompt-marketplaces-and-hubs/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>文本转图像模型的 10 个最佳 AI 提示指南和教程：Midjourney、Stable Diffusion、Dall-E 3</title>
+      <link>//localhost:1313/prompt-engineering/best-10-ai-prompt-text-to-image-model/</link>
+      <pubDate>Sun, 07 Jul 2024 04:59:04 +0800</pubDate>
+      
+      <guid>//localhost:1313/prompt-engineering/best-10-ai-prompt-text-to-image-model/</guid>
+      <description>GPT-3 因其强大的文本创建功能而具有广泛的应用。GPT-3 用于生成</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/prompt-engineering/best-10-ai-prompt-text-to-image-model/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

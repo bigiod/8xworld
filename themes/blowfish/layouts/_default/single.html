@@ -80,8 +80,8 @@
         {{ partial "series/series.html" . }}
 
         <div class="article-content max-w-prose mb-20">
-          {{ .Content }}
-          {{- partial "single/reward.html" . -}}
+            {{ .Content }}     
+            {{- partial "single/reward.html" . -}}
         </div>
         
         {{ if (.Params.showAuthorBottom | default ( .Site.Params.article.showAuthorBottom | default false)) }}

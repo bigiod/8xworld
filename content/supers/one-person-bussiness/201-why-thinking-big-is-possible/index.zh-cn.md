@@ -14,7 +14,13 @@ seriesOpened: false
 
 在「规划一人企业」部分，我想与大家分享三个重要方面的内容：底层逻辑、赛道选择，以及竞争策略。
 
-![img](https://r2.ft07.com/wp-content/uploads/2024/03/image-14-1024x363.png)规划一人企业的三大思考方向
+
+{{< figure
+    src="https://r2.ft07.com/wp-content/uploads/2024/03/image-14-1024x363.png"
+    alt="规划一人企业的三大思考方向"
+    caption="规划一人企业的三大思考方向"
+>}}
+
 
 首先，我们必须深刻**理解底层逻辑，这是我们方法论的根基**。即便未来我们不打算创办一人企业，通过掌握底层逻辑，我们也能推断出其他企业形态应该如何运营。
 
@@ -32,13 +38,21 @@ seriesOpened: false
 
 时势背后，是**边界的变动**。
 
-![img](https://r2.ft07.com/wp-content/uploads/2024/03/river2-1024x674.png)原有商业逻辑
+{{< figure
+    src="https://r2.ft07.com/wp-content/uploads/2024/03/river2-1024x674.png"
+    alt="原有商业逻辑"
+    caption="原有商业逻辑"
+>}}
 
 让我们看一下这个例子：上边的图中有一条河。我用红色箭头标出的地方，代表的是原有的商业逻辑。在没有边界变动的情况下，依河而建的商业逻辑是高效而卓越的，经过多年的迭代，很可能是最优的，而且逐渐形成其竞争门槛。
 
 但是，由于技术的变化、政策的调整、消费习惯的改变等因素，现在出现了新的商业逻辑。这个新的商业逻辑可能像一条新的分支，对原有的商业逻辑中造成了分流。
 
-![img](https://r2.ft07.com/wp-content/uploads/2024/03/image-16-1024x631.png)新的商业逻辑
+{{< figure
+    src="https://r2.ft07.com/wp-content/uploads/2024/03/image-16-1024x631.png"
+    alt="新的商业逻辑"
+    caption="新的商业逻辑"
+>}}
 
 在有了新支流的情况下，原有的商业逻辑突然就变得不是最优了，**它的护城河也可能变得可以绕过了。这就是以小博大的机会**。
 
@@ -48,7 +62,11 @@ seriesOpened: false
 
 ## 边界变动的类型
 
-![img](https://r2.ft07.com/wp-content/uploads/2024/03/image-17-1024x433.png)边界变动的常见类型
+{{< figure
+    src="https://r2.ft07.com/wp-content/uploads/2024/03/image-17-1024x433.png"
+    alt="边界变动的常见类型"
+    caption="边界变动的常见类型"
+>}}
 
 只要放开心态、保持商业敏感性，我们可以从方方面面发现边界变动。这里举一些常见的例子。
 

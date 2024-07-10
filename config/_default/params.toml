@@ -34,7 +34,7 @@ smartTOCHideUnfocusedChildren = false
 [footer]
   showMenu = true
   showCopyright = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showThemeAttribution = true
   showScrollToTop = true
 
