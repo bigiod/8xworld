@@ -1,7 +1,7 @@
 ---
 title: "打造个人品牌只需要1000个铁杆粉丝"
 date: 2024-06-03
-draft: false
+draft: true
 description: "用于创建 Blowfish 主题使用指南的模板"
 categories: ["超级个体"]
 tags: ["个人品牌", "粉丝"]
