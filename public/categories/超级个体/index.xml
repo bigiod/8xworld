@@ -18,15 +18,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/make-yourself-a-scarce-asset/feature.jpg" />
     </item>
     
-    <item>
-      <title>打造个人品牌只需要1000个铁杆粉丝</title>
-      <link>//localhost:1313/posts/1000fans/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/1000fans/</guid>
-      <description>聚焦1000铁杆粉丝，精耕细作，铸就个人品牌坚实基石。 重点！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1000fans/feature.jpg" />
-    </item>
-    
   </channel>
 </rss>

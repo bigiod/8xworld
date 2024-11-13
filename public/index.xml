@@ -14,7 +14,7 @@
       <pubDate>Tue, 09 Jul 2024 05:59:04 +0800</pubDate>
       
       <guid>//localhost:1313/supers/ens-ipfs-dwebsite/101-overview/</guid>
-      <description>课程基本信息： # 课程说明: # 本课程是《零基础打造 Web3.0 AI超级个</description>
+      <description>课程信息： # 课程说明: 本课程是《零基础打造 Web3.0 AI超级个体门户</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/supers/ens-ipfs-dwebsite/101-overview/feature.jpg" />
     </item>
     
@@ -479,16 +479,6 @@
     </item>
     
     <item>
-      <title>打造个人品牌只需要1000个铁杆粉丝</title>
-      <link>//localhost:1313/posts/1000fans/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/1000fans/</guid>
-      <description>聚焦1000铁杆粉丝，精耕细作，铸就个人品牌坚实基石。 重点！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1000fans/feature.jpg" />
-    </item>
-    
-    <item>
       <title>关于我们</title>
       <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -496,6 +486,16 @@
       <guid>//localhost:1313/about/</guid>
       <description>和AI做个朋友 # APlayer 是采用 MIT 许可的开源项目，使用完全免费。 但是</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/about/feature.webp" />
+    </item>
+    
+    <item>
+      <title>赞助支持</title>
+      <link>//localhost:1313/reward/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/reward/</guid>
+      <description>支持全球内容创作者的未来，你的支持至关重要 # 在这个信息爆炸的</description>
+      
     </item>
     
   </channel>
